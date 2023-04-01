@@ -1,0 +1,15 @@
+C:\Users\peka2\Desktop\homework_7\task_51\obj\Debug\net6.0\task_51.csproj.AssemblyReference.cache
+C:\Users\peka2\Desktop\homework_7\task_51\obj\Debug\net6.0\task_51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peka2\Desktop\homework_7\task_51\obj\Debug\net6.0\task_51.AssemblyInfoInputs.cache
+C:\Users\peka2\Desktop\homework_7\task_51\obj\Debug\net6.0\task_51.AssemblyInfo.cs
+C:\Users\peka2\Desktop\homework_7\task_51\obj\Debug\net6.0\task_51.csproj.CoreCompileInputs.cache
+C:\Users\peka2\Desktop\homework_7\task_51\bin\Debug\net6.0\task_51.exe
+C:\Users\peka2\Desktop\homework_7\task_51\bin\Debug\net6.0\task_51.deps.json
+C:\Users\peka2\Desktop\homework_7\task_51\bin\Debug\net6.0\task_51.runtimeconfig.json
+C:\Users\peka2\Desktop\homework_7\task_51\bin\Debug\net6.0\task_51.dll
+C:\Users\peka2\Desktop\homework_7\task_51\bin\Debug\net6.0\task_51.pdb
+C:\Users\peka2\Desktop\homework_7\task_51\obj\Debug\net6.0\task_51.dll
+C:\Users\peka2\Desktop\homework_7\task_51\obj\Debug\net6.0\refint\task_51.dll
+C:\Users\peka2\Desktop\homework_7\task_51\obj\Debug\net6.0\task_51.pdb
+C:\Users\peka2\Desktop\homework_7\task_51\obj\Debug\net6.0\task_51.genruntimeconfig.cache
+C:\Users\peka2\Desktop\homework_7\task_51\obj\Debug\net6.0\ref\task_51.dll
